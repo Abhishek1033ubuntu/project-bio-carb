@@ -43,3 +43,11 @@ A comprehensive technical dossier detailing the metabolic pathways, Weibull math
 Ensure you have Python 3.8+ installed. Install the simulation dependencies:
 ```bash
 pip install -r requirements.txt
+
+2. Run the Simulation Engine
+To execute the comprehensive Phase 4 simulation model and generate the technical economic performance report:
+python simulation/run_simulation.py
+
+Technical Documentation
+A comprehensive technical dossier detailing the metabolic pathways, Weibull mathematical logic equations, and down-stream phase-separation decanting engineering layouts can be reviewed in the /documentation directory.
+
