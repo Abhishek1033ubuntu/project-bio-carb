@@ -24,8 +24,9 @@ The system architecture was programmatically evolved across four major developme
 | :--- | :--- | :--- | :--- | :--- |
 | **Phase 1: Basic Lab Scale** | \$1,391.53 / bbl | -\$206,758 (Loss) | 162.61 bbl/yr | Initial 100-bay testing bed; heavy robotic gantry queues. |
 | **Phase 2: Regional Scaling** | \$93.43 / bbl | +\$10,818,880 (Profit) | 162,519.22 bbl/yr | Scaled to 20,000 bays; distributed robotics; infinite supply assumptions. |
-| **Phase 3: Stochastic Shock** | \$111.51 / bbl | +\$3,339,062 (Profit) | 68,855.26 bbl/yr | Introduced randomized winter weather droughts and raw material price shocks. |python simulation/run_simulation.py
-| **Phase 4: Consolidated Loop** | **\$96.46 / bbl** | **+\$4,465,200 (Profit)** | **70,271.82 bbl/yr** | **Final State:** Orthogonal lifespans (180 days), lignin power self-sufficiency. |
+| **Phase 3: Stochastic Shock** | \$111.51 / bbl | +\$3,339,062 (Profit) | 68,855.26 bbl/yr | Introduced randomized winter weather droughts and raw material price shocks. |
+| **Phase 4: Consolidated Loop** | \$96.46 / bbl | +\$4,465,200 (Profit) | 70,271.82 bbl/yr | Integrated 180-day orthogonal lifespans and lignin power self-sufficiency. |
+| **Phase 5: Opportunity Cost Par** | **\$96.47 / bbl** | **+\$303,847 (Profit)** | **70,252.06 bbl/yr** | **Final State:** Equalized to standard wholesale market par (\$2.40/gal); zero byproduct credits. |
 
 *Note: Revenue calculations utilize a **Refining Cost Credit** valuation of \$160.00/bbl, as the clean, highly targeted bio-alkane output completely bypasses multi-billion dollar secondary fractional distillation stacks required by crude oil.*
 
