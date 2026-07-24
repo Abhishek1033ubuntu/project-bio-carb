@@ -5,6 +5,8 @@ Project Bio-Carb is an advanced discrete-event simulation framework designed to 
 Rather than relying on classic, diffusion-limited 3D volumetric fermentation tanks, this project pioneers a **2D planar biolithography array** hosted inside automated, hot-swappable modular processing racks—treating biological units with the architectural determinism of computer hardware.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21515238.svg)](https://doi.org/10.5281/zenodo.21515238)
+![Status](https://img.shields.io/badge/Status-Research_POC-orange)
+![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 ---
 
