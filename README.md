@@ -1,5 +1,6 @@
 # Project Bio-Carb: Decentralized Biolithography & Circular Bioeconomy Framework
 
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21515238.svg)](https://doi.org/10.5281/zenodo.21515238)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
@@ -54,3 +55,4 @@ python simulation/run_simulation.py
 Technical Documentation
 A comprehensive technical dossier detailing the metabolic pathways, Weibull mathematical logic equations, and down-stream phase-separation decanting engineering layouts can be reviewed in the /documentation directory.
 
+Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
